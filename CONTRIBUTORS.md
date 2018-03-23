@@ -1,7 +1,8 @@
 ```
 Add your name at the bottom of the list:
 
-
+ - Benoit Tellier
+ - Dang Xuan Thanh
  - NGUYEN HONG DOAN
  - BENOIT TELLIER (26 years old)
  - CLITE TAILOR
