@@ -3,7 +3,7 @@ Add your name at the bottom of the list:
 
 
  - NGUYEN HONG DOAN
- - BENOIT TELLIER
+ - BENOIT TELLIER (26 years old)
  - CLITE TAILOR
  - DANG MINH HIEU
  - Nguyen Thanh Tung
