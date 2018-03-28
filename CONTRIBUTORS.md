@@ -9,6 +9,6 @@ Add your name at the bottom of the list:
  - Nguyen Thanh Tung
  - Linh Phan
  - Nguyen Duc Trinh
- - Tran Van Dem (22 years old)
+ - Tran Van Dem
 
 ```
