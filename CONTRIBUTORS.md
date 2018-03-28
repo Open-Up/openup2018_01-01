@@ -10,5 +10,5 @@ Add your name at the bottom of the list:
  - Linh Phan
  - Nguyen Duc Trinh
  - Pham Minh Tuan
-
+ _ Chu Quang Tinh
 ```
