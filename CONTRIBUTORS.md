@@ -11,6 +11,7 @@ Add your name at the bottom of the list:
  - Linh Phan
  - Nguyen Duc Trinh
  - Pham Minh Tuan
+ - Le Viet Hoa
  - Vu Ngoc Hoan
  - Bui Thien Bao
 ```
