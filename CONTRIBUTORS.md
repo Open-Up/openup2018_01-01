@@ -1,12 +1,17 @@
 ```
 Add your name at the bottom of the list:
-
-<<<<<<< HEAD
  
-=======
- - BENOIT TELLIER
- - Nguyen Thanh Tung
- - Nguyen Van Sang
->>>>>>> 33453fa6dc9d9c9ef1f26c40e0b01f57a2c5cec3
+ - NGUYEN HONG DOAN
+ - BENOIT TELLIER (26 years old)
+ - CLITE TAILOR
+ - LE QUANG VINH
+ - DANG MINH HIEU
+ - NGUYEN THANH TUNG
+ - LINH PHAN
+ - NGUYEN DUC TRINH
+ - PHAN MINH TUAN
+ - LE VIET HOA
+ - VU NGOC HOAN
+ - BUI THIEN THAO
+ - NGUYEN VAN SANG (22 years old)
 
-```
