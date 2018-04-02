@@ -12,4 +12,7 @@ Add your name at the bottom of the list:
  - Nguyen Duc Trinh
  - Pham Minh Tuan
  _ Chu Quang Tinh
+ - Le Viet Hoa
+ - Vu Ngoc Hoan
+ - Bui Thien Bao
 ```
