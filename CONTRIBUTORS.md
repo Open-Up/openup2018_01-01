@@ -16,6 +16,6 @@ Add your name at the bottom of the list:
  - Vu Ngoc Hoan
  - Bui Thien Bao
  - Phan Van Quang
-
+ - Nguyen Duc Tai
 
 ```
