@@ -15,7 +15,6 @@ Add your name at the bottom of the list:
  - Le Viet Hoa
  - Vu Ngoc Hoan
  - Bui Thien Bao
+ - Nguyen Duc Tai
  - Phan Van Quang
-
-
 ```
